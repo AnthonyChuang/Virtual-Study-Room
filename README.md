@@ -94,9 +94,7 @@ Access settings or profile customization.
 
 ## Wireframes
 
-<img src="https://postimg.cc/189GGX6M" width=600>
-
-### [BONUS] Digital Wireframes & Mockups
+<img width="698" alt="image" src="https://github.com/AnthonyChuang/Virtual-Study-Room/assets/85719130/405c0b33-8382-4c7c-9670-e8d5388eefeb">
 
 ### [BONUS] Interactive Prototype
 
