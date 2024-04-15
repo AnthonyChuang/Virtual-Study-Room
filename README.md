@@ -94,7 +94,7 @@ Access settings or profile customization.
 
 ## Wireframes
 
-<img src="[YOUR_WIREFRAME_IMAGE_URL](https://postimg.cc/189GGX6M)" width=600>
+<img src="(https://postimg.cc/189GGX6M)" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
