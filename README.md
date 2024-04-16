@@ -18,7 +18,6 @@ This app creates a virtual environment for students and professionals to study o
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
 **Category:** Education & Productivity
 
 **Mobile:** Critical for on-the-go access, allowing users to join study sessions from anywhere. The app uses audio and video streaming technology for live interactions and integrates calendar functionality for scheduling study sessions. Mobile notifications remind users of scheduled sessions and updates from study groups.
