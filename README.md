@@ -110,3 +110,14 @@ Access settings or profile customization.
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+**Unit 8**
+<div>
+    <a href="https://www.loom.com/share/87edfc50d7eb43a3915c3ac3bf94a7ff">
+    </a>
+    <a href="https://www.loom.com/share/87edfc50d7eb43a3915c3ac3bf94a7ff">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/87edfc50d7eb43a3915c3ac3bf94a7ff-with-play.gif">
+    </a>
+  </div>
+
+  
