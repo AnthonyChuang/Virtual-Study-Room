@@ -111,7 +111,13 @@ Access settings or profile customization.
 - [Create basic snippets for each Parse network request]
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
 
-**Unit 8**
+## Week 8
+
+## Tasks Accomplished
+
+Created basic file structure and basic UI for login page
+
+## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/87edfc50d7eb43a3915c3ac3bf94a7ff">
     </a>
@@ -119,5 +125,9 @@ Access settings or profile customization.
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/87edfc50d7eb43a3915c3ac3bf94a7ff-with-play.gif">
     </a>
   </div>
+
+## Notes
+
+Had difficulties setting project up and file structure as there were extra folders everywhere. Will next finish implementing login page by making it more secure,and host a backend database of remembering accounts.
 
   
