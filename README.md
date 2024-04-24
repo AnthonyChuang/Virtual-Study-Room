@@ -130,4 +130,21 @@ Created basic file structure and basic UI for login page
 
 Had difficulties setting project up and file structure as there were extra folders everywhere. Will next finish implementing login page by making it more secure,and host a backend database of remembering accounts.
 
-  
+## Week 9
+
+## Tasks Accomplished
+
+Recreated basic login UI, reworked password security and textfield propertie. Created Basic HomeScreen with button functionality to join a public room and enter in a private room key. Also created the start of the public room, including name and background changing functionality. 
+
+## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/b1f9cfd3d1a3458b9ae2fc9dbb422d70">
+    </a>
+    <a href="https://www.loom.com/share/b1f9cfd3d1a3458b9ae2fc9dbb422d70">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b1f9cfd3d1a3458b9ae2fc9dbb422d70-with-play.gif">
+    </a>
+  </div>
+
+## Notes
+
+Had many difficulties with user authentification with Github. Couldn't run code again, so had to recreate project from scratch. Many difficulties with managing the timer feature in the app (currently broken), and is something I hope to fix by next week.
