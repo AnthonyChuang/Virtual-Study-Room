@@ -19,6 +19,7 @@
 		E166715B2BD7999C001916A4 /* CodePopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166715A2BD7999C001916A4 /* CodePopupViewController.swift */; };
 		E166715D2BD7A200001916A4 /* PublicRoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166715C2BD7A200001916A4 /* PublicRoomViewController.swift */; };
 		E166715F2BD7A4C6001916A4 /* RoomSettingsPopupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E166715E2BD7A4C6001916A4 /* RoomSettingsPopupViewController.swift */; };
+		E1744B592BE4AD110017935F /* Songs in Resources */ = {isa = PBXBuildFile; fileRef = E1744B582BE4AD110017935F /* Songs */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +28,7 @@
 		E11F40682BD7856B00B42ED5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		E11F406A2BD7856B00B42ED5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E11F406D2BD7856B00B42ED5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E11F406F2BD7856C00B42ED5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E11F406F2BD7856C00B42ED5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = /Users/anthonychuang/Downloads/CodePath/VirtualStudyRoom/VirtualStudyRoom/VirtualStudyRoom/Assets.xcassets; sourceTree = "<absolute>"; };
 		E11F40722BD7856C00B42ED5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E11F40742BD7856C00B42ED5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E16671542BD787DC001916A4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "../../../Virtual-Study-Room/README.md"; sourceTree = "<group>"; };
@@ -36,6 +37,7 @@
 		E166715A2BD7999C001916A4 /* CodePopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodePopupViewController.swift; sourceTree = "<group>"; };
 		E166715C2BD7A200001916A4 /* PublicRoomViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PublicRoomViewController.swift; sourceTree = "<group>"; };
 		E166715E2BD7A4C6001916A4 /* RoomSettingsPopupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoomSettingsPopupViewController.swift; sourceTree = "<group>"; };
+		E1744B582BE4AD110017935F /* Songs */ = {isa = PBXFileReference; lastKnownFileType = folder; name = Songs; path = VirtualStudyRoom/Assets.xcassets/Songs; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		E11F405A2BD7856B00B42ED5 = {
 			isa = PBXGroup;
 			children = (
+				E1744B582BE4AD110017935F /* Songs */,
 				E11F40652BD7856B00B42ED5 /* VirtualStudyRoom */,
 				E11F40642BD7856B00B42ED5 /* Products */,
 			);
@@ -146,6 +149,7 @@
 				E11F40702BD7856C00B42ED5 /* Assets.xcassets in Resources */,
 				E11F40732BD7856C00B42ED5 /* Base in Resources */,
 				E16671552BD787DC001916A4 /* README.md in Resources */,
+				E1744B592BE4AD110017935F /* Songs in Resources */,
 				E16671572BD787E5001916A4 /* brainstorming.md in Resources */,
 				E11F406E2BD7856B00B42ED5 /* Base in Resources */,
 			);
