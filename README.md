@@ -148,3 +148,22 @@ Recreated basic login UI, reworked password security and textfield propertie. Cr
 ## Notes
 
 Had many difficulties with user authentification with Github. Couldn't run code again, so had to recreate project from scratch. Many difficulties with managing the timer feature in the app (currently broken), and is something I hope to fix by next week.
+
+## Week 10
+
+## Tasks Accomplished
+
+Created new library-like default background for Study Room. Created better UI for "back to home" button and "settings" button. Created outline for toolbar. Created a pomodoro-style timer, with a reset and start/stop button that are colored. Timer has both work feature and break feature that can allocate time to either study or take a break. Created popup notifications when study break is over, or study time is over. Finally, created music feature where when the timer button is on, and it is in work mode, lofi music plays. 
+
+## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/4071c21400a24bcbad7d82ceca3c72ae">
+    </a>
+    <a href="https://www.loom.com/share/4071c21400a24bcbad7d82ceca3c72ae">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/4071c21400a24bcbad7d82ceca3c72ae-with-play.gif">
+    </a>
+  </div>
+
+## Notes
+
+Had lots of difficulties with displaying the timer properly, and struggled even more with fixing bugs for the music player. Spent over 6 hours debugging the music player feature of the app. Music isn't shown in the loom video, unfortunately, but lofi does play when the timer is running under "study" mode. 
