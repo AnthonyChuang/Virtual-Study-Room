@@ -1,4 +1,4 @@
-Original App Design Project - README Template
+Original App Design Project
 ===
 
 # Virtual Study Room
@@ -95,8 +95,6 @@ Access settings or profile customization.
 
 <img width="698" alt="image" src="https://github.com/AnthonyChuang/Virtual-Study-Room/assets/85719130/405c0b33-8382-4c7c-9670-e8d5388eefeb">
 
-### [BONUS] Interactive Prototype
-
 ## Schema 
 
 [This section will be completed in Unit 9]
@@ -126,9 +124,6 @@ Created basic file structure and basic UI for login page
     </a>
   </div>
 
-## Notes
-
-Had difficulties setting project up and file structure as there were extra folders everywhere. Will next finish implementing login page by making it more secure,and host a backend database of remembering accounts.
 
 ## Week 9
 
